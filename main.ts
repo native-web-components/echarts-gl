@@ -1,2 +1,2 @@
 import { define } from "./src";
-define("echarts-gl")
+define("wc-echarts-gl")
